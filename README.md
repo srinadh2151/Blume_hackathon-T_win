@@ -1,6 +1,6 @@
 # Blume_hackathon-T_win
-This Repository consists of the analysis and work done by team T_win, on the problem statement by Milk Basket.
-Our final analysis, insights and model outputs of our Recommendation Engine and the Churn model is summarized on our final presentation titled "T_win_final_submission.pdf". 
+This Repository consists of the analysis and work done by team T_win, on the problem statement by MilkBasket.
+Our final analysis, insights and model outputs of our Recommendation Engine and the Churn model is summarized on our final presentation titled "T_win_final_submission(1).pdf". 
 All the codes, SQL queries, workbooks are present in their respective folders.
 
 
@@ -13,4 +13,4 @@ Excel files EDA1,EDA2,EDA3 consist of the Excel books used during the extensive 
 
 EDAqueries1.sql contain the sql queries used for the EDA process.
 
-T_win_final_submission.pdf - This is our final PPT which consists of the detailed analysis and results that we inferred as well as the approach and outputs for our recommendation engine and churn prediction models.
+T_win_final_submission(1).pdf - This is our final PPT which consists of the detailed analysis and results that we inferred as well as the approach and outputs for our recommendation engine and churn prediction models.
